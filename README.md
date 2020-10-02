@@ -27,9 +27,9 @@ For this project, I decided to predict how many stars a customer is more likely 
 
 ## Procedure
 
-I pull a 2 million data set of Kindle reviews, but due computational limitations I had to take a 10% random sample of this dataset to work on.
+I pull up a 2 million data set of Kindle reviews, but due to computational limitations I was forzed to use only a random 10% sample of this dataset to work on.
 
-This project was a few challenging for me because I decided to push myself to untaught themes like Natural Language Processing NLP. So this job was done based more on Statistical tools other than NLP proper tools. 
+Even though this project was challenging for me, it helped me out to push myself to untaught themes like Natural Language Processing NLP. So this job was done focusing more on the Statistical tool rather than on NLP tools. 
 
 ### Deployment
 
